@@ -1,0 +1,22 @@
+[project]
+name = "moodmate"
+version = "0.1.0"
+description = "A Streamlit-based AI mood analyzer with affirmations and productivity tips."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Raghav Ramani" }]
+
+dependencies = [
+    "streamlit",
+    "transformers",
+    "torch",
+    "sentencepiece",
+    "scikit-learn",
+    "pandas",
+    "numpy",
+    "google-generativeai>=0.8.5",
+    "python-dotenv>=1.2.1",
+]
+
+[tool.uv]
+package = true
