@@ -7,6 +7,11 @@ Built using **Streamlit**, **HuggingFace Transformers**, **Google Generative AI*
 
 ---
 
+## 🔗 Live Demo  
+Try the app here:  
+👉 **https://vibemate.streamlit.app/**
+
+---
 ## 🌈 Features
 
 ### 🧠 Mood Analyzer
